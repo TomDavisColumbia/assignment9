@@ -1,0 +1,53 @@
+//*I chose the Washington Herald at random and selected the header's black text as my design element - I then changed my background from black to white
+http://www.washtimesherald.com/
+//**
+
+
+
+element.style {
+  display: block;
+}
+<style>…</style>#ta_invisible {
+  position: fixed;
+  top: 300px;
+  width: 100%;
+  z-index: 2147483647;
+  display: none;
+}
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+  margin: 0;
+  padding: 0;
+}
+* {
+  outline: 0;
+}
+* {
+  font-size: 100.01%;
+}
+user agent stylesheetdiv {
+  display: block;
+}
+Inherited from body.v41_0_2272_118.webkit.mac
+body {
+  font-size: 1em;
+}
+body {
+  text-align: left;
+  background: white;
+  font-family: Arial,sans-serif;
+}
+* {
+  font-size: 100.01%;
+}
+Inherited from html
+html {
+  font-size: 64.5%;
+}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+* {
+  font-size: 100.01%;
+}
